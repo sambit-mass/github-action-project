@@ -7,4 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Hello, World!"
+        run: echo " Welcome to github action "
+        
+      - name: Print message
+        run: echo " my first github action build "
+
+      - name: Print message
+        run: echo  " complete build "
+
+    
