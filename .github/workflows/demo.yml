@@ -15,4 +15,7 @@ jobs:
       - name: Print message
         run: echo  " complete build "
 
+      - name: Print message
+        run: " Test build "
+
     
